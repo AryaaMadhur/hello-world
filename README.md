@@ -1,10 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to my Webpage
 
-You can use the [editor on GitHub](https://github.com/AryaaMadhur/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
+New webpage is under construction in the mean time please connect with on [Linkedin](https://www.linkedin.com/in/arya-madhur-a-b384361ba/).
